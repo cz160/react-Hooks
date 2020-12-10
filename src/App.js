@@ -1,6 +1,6 @@
 import React from 'react';
 
-import UseSelection from './components/UseSelection';
+import UseSelection from './demo/UseSelection';
 const App = ()=>{
     return (
         <div>
